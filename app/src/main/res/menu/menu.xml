@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/weather"
+        android:title="@string/weather"
+        android:icon="@drawable/ic_cloud" />
+
+    <item
+        android:id="@+id/view"
+        android:title="@string/programmatic_views"
+        android:icon="@drawable/ic_view" />
+
+    <item
+        android:id="@+id/home"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/design1"
+        android:title="Design 1"
+        android:icon="@drawable/ic_message" />
+
+    <item
+        android:id="@+id/design2"
+        android:title="Design 2"
+        android:icon="@drawable/ic_sync" />
+
+    <item
+        android:id="@+id/design3"
+        android:title="Design 3"
+        android:icon="@drawable/ic_settings" />
+
+    <item
+        android:title="@string/profile">
+
+        <menu>
+
+            <item
+                android:id="@+id/login"
+                android:title="@string/login"
+                android:icon="@drawable/ic_login" />
+
+            <item
+                android:id="@+id/logout"
+                android:title="@string/logout"
+                android:icon="@drawable/ic_logout" />
+
+        </menu>
+
+    </item>
+</menu>

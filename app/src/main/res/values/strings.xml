@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="settings">Settings</string>
+    <string name="messages">Messages</string>
+    <string name="sync">Sync</string>
+    <string name="martin">Martin Nganga Njoroge</string>
+    <string name="phone">070000000</string>
+    <string name="phone_number">Phone Number</string>
+
+    <string name="select">Select Name</string>
+    <string name="weather">Weather</string>
+
+    <string-array name="names">
+        <item>Martin</item>
+        <item>Pauline</item>
+        <item>Mark</item>
+        <item>Glen</item>
+        <item>Maureen</item>
+    </string-array>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="programmatic_views">Programmatic Views</string>
+    <string name="extra_inch_technologies_ltd">Extra Inch Technologies Ltd</string>
+
+    <string name="cash_deposit">CASH\nDEPOSIT</string>
+    <string name="cash_withdrawal">CASH\nWITHDRAWAL</string>
+    <string name="account">ACCOUNT</string>
+    <string name="create_account">CREATE\nACCOUNT</string>
+    <string name="account_query">ACCOUNT\nQUERY</string>
+    <string name="loan_application">LOAN\nAPPLICATION</string>
+    <string name="bill_payment">BILL\nPAYMENT</string>
+    <string name="airtime_purchase">AIRTIME\nPURCHASE</string>
+    <string name="airtime">AIRTIME</string>
+    <string name="my_float">MY\nFLOAT</string>
+    <string name="created_clients">CREATED\nCLIENTS</string>
+    <string name="transactions">MY\nTRANSACTIONS</string>
+    <string name="loans">SUBMITED\nLOANS</string>
+
+</resources>
